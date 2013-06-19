@@ -28,3 +28,8 @@
         margin-bottom: 15px;
         padding: 7px 9px;
       }
+
+      .form-signin input.inputError{
+        border:1px solid #ff0000;
+        background-color: #ff0000;
+      }
